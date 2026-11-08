@@ -1,0 +1,9 @@
+bin/
+obj/
+results/
+plots/
+inputs/
+*.o
+*.out
+__pycache__/
+.DS_Store
