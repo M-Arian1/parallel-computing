@@ -36,3 +36,6 @@ make test-all && make analyze   # benchmark grid (threads × table size) and plo
 The benchmark scripts expect input files under `inputs/` (not included: about 40 MB of generated keys).
 
 **Fixes made when publishing:** a stray character that broke compilation, a crash when an input file has fewer lines than `--data_size`, and course-specific file names.
+
+## License
+MIT, see [LICENSE](LICENSE).
